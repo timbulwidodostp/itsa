@@ -1,5 +1,9 @@
-d 'DEA': Data envelopment analysis
+d 'itsa': Interrupted time-series analysis for single and multiple groups Use itsa With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f actest.ado
+f actest.sthlp
+f actest9.ado
+f glm2.ado
+f itsa.ado
+f itsa.sthlp
+f livreg2.mlib
