@@ -1,6 +1,8 @@
 # itsa
 Interrupted time-series analysis for single and multiple groups Use itsa With STATA 18
 
+https://www.youtube.com/watch?v=PJ9DfLwWAmw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
